@@ -1,6 +1,6 @@
 # Template CMakeLists.txt for plugins/components.
 
-set(COMPONENT_NAME pair_plugin)
+set(COMPONENT_NAME ashbaugh_plugin)
 
 # Check that the HOOMD build configuration supports plugin dependencies
 if(NOT BUILD_MD)
